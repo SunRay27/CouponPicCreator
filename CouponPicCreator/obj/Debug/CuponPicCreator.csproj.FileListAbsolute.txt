@@ -1,0 +1,7 @@
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\bin\Debug\CuponPicCreator.exe.config
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\obj\Debug\CuponPicCreator.csprojResolveAssemblyReference.cache
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\bin\Debug\CuponPicCreator.exe
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\bin\Debug\CuponPicCreator.pdb
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\bin\Debug\System.Drawing.Primitives.dll
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\obj\Debug\CuponPicCreator.exe
+c:\users\furnace\documents\visual studio 2015\Projects\CuponPicCreator\CuponPicCreator\obj\Debug\CuponPicCreator.pdb
